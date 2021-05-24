@@ -490,11 +490,11 @@ void see(void)
 
 void close(void)
 {
-    printf("\n\n\n\nDeveloped by Lakshitha!");
+    printf("\n\n\n\nDeveloped by Lakshitha P and Adithya N A!");
     }
 
 
-void menu(void)
+void menu(void) 
 {   int choice;
     system("cls");
     system("color 9");
