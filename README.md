@@ -1,2 +1,2 @@
 # bank-management-system
-A simple bank management system using  c program
+Bank Management System is based on a concept to generate and maintain daily payment transactions with the customer’s account. Before stepping into the main system a user has to pass through login system to get access, then only he/she can use all the features of the system which includes Adding, Removing, Updating and viewing records, withdraw and deposit cash feature, check details of existing customers.
